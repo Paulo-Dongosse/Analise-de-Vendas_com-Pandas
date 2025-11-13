@@ -25,7 +25,7 @@ O projeto segue uma linha semelhante ao que empresas de varejo e e-commerce apli
 <td><img src="faixa_etaria_receita_media.png" width="350"/></td>
 <td><img src="top10.png" width="350"/></td>
 <tr>
-<td><img src="Lucro_por_produto.png" width="350"/></td>
+<td><img src="Lucro_por_produt.png" width="350"/></td>
 </tr>
 </table>
 
