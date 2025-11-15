@@ -15,8 +15,21 @@ O projeto segue uma linha semelhante ao que empresas de varejo e e-commerce apli
 
 ---
 
-## 📁 Estrutura do Projeto
+﻿<div align="center">
+<table align="center">
+<tr>
+<td><img src="faturamento_total.png" width="350"/></td>
+<td><img src="evolucao_das_vendas_mensais.png" width="350"/></td>
+</tr>
+<tr>
+<td><img src="faixa_etaria_receita_media.png" width="350"/></td>
+<td><img src="top10.png" width="350"/></td>
+<tr>
+<td><img src="Lucro_por_produt.png" width="350"/></td>
+</tr>
+</table>
 
+</div>
 ---
 
 
